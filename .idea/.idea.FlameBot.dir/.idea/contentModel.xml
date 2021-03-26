@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\flame\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\flame\AppData\Local\JetBrains\Rider2020.3\javascript\typings\node\12.19.0\node_modules\@types" t="IncludeRecursive" />
+    <e p="C:\Users\flame\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\flame\AppData\Roaming\JetBrains\Rider2020.3\javascript\nodejs\12.19.0\core-modules" t="IncludeRecursive" />
+    <e p="C:\Users\flame\Documents\FlameBot" t="IncludeFlat">
+      <e p="node_modules\@discordjs\collection" t="IncludeRecursive" />
+      <e p="node_modules\@discordjs\form-data" t="IncludeRecursive" />
+      <e p="node_modules\abort-controller" t="IncludeRecursive" />
+      <e p="node_modules\discord.js" t="IncludeRecursive" />
+      <e p="node_modules\event-target-shim" t="IncludeRecursive" />
+      <e p="node_modules\prism-media" t="IncludeRecursive" />
+      <e p="node_modules\tweetnacl" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

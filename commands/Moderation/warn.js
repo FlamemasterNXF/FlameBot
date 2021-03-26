@@ -14,7 +14,7 @@ module.exports = {
             if (isNaN(userWarns[target.id])){
                 userWarns[target.id] = 0
             }
-            message.channel.send(`Warned ${target}, they now have ${userWarns[target.id]} Warnings.`)
+            message.channel.send(`Warned ${target}.`)
         }
         else{
             message.channel.send(`You do not have the permissions required to execute this command.`)

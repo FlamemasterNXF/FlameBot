@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="449b01cd-25b8-4980-ac97-11585e69b619" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot (LOCAL).dir/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot (LOCAL).dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot (LOCAL).dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot (LOCAL).dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot.dir/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot.dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands/Misc/help.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/Misc/ping.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/Misc/ping.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/Moderation/warn.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/Moderation/warn.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1pZq7yaU3wFMogaypenR4gTZ5pm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.19.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../a project" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\flame\Documents\FlameBot\commands" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\flame\Documents\FlameBot\commands\Kuaka" />
+      <recent name="C:\Users\flame\Documents\FlameBot\commands" />
+      <recent name="C:\Users\flame\Documents\FlameBot\commands\Moderation" />
+      <recent name="C:\Users\flame\Documents\FlameBot\commands\Misc" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="449b01cd-25b8-4980-ac97-11585e69b619" name="Default Changelist" comment="" />
+      <created>1615400797499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615400797499</updated>
+      <workItem from="1615400798747" duration="37000" />
+      <workItem from="1615401034716" duration="39000" />
+      <workItem from="1615401106238" duration="11167000" />
+      <workItem from="1615422967765" duration="5195000" />
+      <workItem from="1615466371449" duration="6216000" />
+      <workItem from="1615553332141" duration="2307000" />
+      <workItem from="1615653244781" duration="684000" />
+      <workItem from="1615684332834" duration="855000" />
+      <workItem from="1615687455014" duration="3000" />
+      <workItem from="1615811482207" duration="6000" />
+      <workItem from="1615819909577" duration="172000" />
+      <workItem from="1615820090067" duration="1219000" />
+      <workItem from="1615903522229" duration="616000" />
+      <workItem from="1615987772586" duration="680000" />
+      <workItem from="1615999886454" duration="1301000" />
+      <workItem from="1616070540159" duration="1206000" />
+      <workItem from="1616094680385" duration="650000" />
+      <workItem from="1616154918954" duration="615000" />
+      <workItem from="1616357755488" duration="413000" />
+      <workItem from="1616416085292" duration="1801000" />
+      <workItem from="1616586421389" duration="7334000" />
+      <workItem from="1616673548669" duration="6640000" />
+      <workItem from="1616686009297" duration="7165000" />
+      <workItem from="1616702033743" duration="7896000" />
+      <workItem from="1616759023645" duration="752000" />
+      <workItem from="1616764441053" duration="812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
