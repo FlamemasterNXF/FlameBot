@@ -8,7 +8,7 @@ module.exports = {
         let kuakaMinimum = 100 * (1.01 * player.membersInvested)
         kuakaValue = randomNumber(kuakaMinimum, kuakaCap)
         kuakaValuePrevious = kuakaValue;
-        kuakaValue = randomNumber(0, 10000);
+        kuakaValue = randomNumber(kuakaMinimum, kuakaCap);
         let kuakaEmbed = new Discord.MessageEmbed()
             .setColor('#bd11ff')
             .setTitle('Kuaka Value')

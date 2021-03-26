@@ -4,10 +4,10 @@ module.exports = {
     execute(message, args) {
         let changelogEmbed = new Discord.MessageEmbed()
             .setColor('#919191')
-            .setTitle('Update 0.11')
-            .setDescription(`Totally redid Kuakacoin!\n\n-Use ;value to see the current value of Kuakacoin!\n\n-Not much more to do with it, for now...`)
+            .setTitle('Major Update 0.14')
+            .setDescription(`--MAJOR UPDATE--\n\n-THE BOT HAS HOSTING NOW! It will be on 24/7 for the foreseeable future!\n\n-Added Saving with help from unpinga! You can Invest as much as you want and never lose your data!\n\n-Added ;invest, which allows you to invest into Kuakacoin, boosting its value!`)
             .setTimestamp()
-            .setFooter('Next Update: 0.12', 'https://cdn.discordapp.com/emojis/551903543515152437.png?v=1');
+            .setFooter('Thanks for reading this!', 'https://cdn.discordapp.com/emojis/551903543515152437.png?v=1');
         message.channel.send(changelogEmbed)
     },
 };

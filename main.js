@@ -2,6 +2,7 @@
 const fs = require('fs');
 const Discord = require('discord.js');
 const jQuery = require('jquery');
+require("./save")
 const { prefix, token } = require('./config.json');
 
 const client = new Discord.Client();
@@ -33,7 +34,7 @@ const statuses = [
     "Flame Ban Simulator 2021",
     "PEN",
     "5 Hours",
-    "This Bot Doesn't Have Hosting RIP",
+    "This Bot Has Hosting Now!",
     "Help I Need Playing Statuses For My Discord Bot",
     "Warn Command Never >:)",
     "Mute and Kick are obsolete, Ban is the only good command!",
