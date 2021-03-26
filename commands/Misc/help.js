@@ -1,4 +1,5 @@
 const Discord = require("discord.js");
+const kuakaEmote = "<:kuakacoin:763799806337613834>"
 module.exports = {
     name: 'help',
     execute(message, args) {
