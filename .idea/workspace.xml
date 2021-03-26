@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="449b01cd-25b8-4980-ac97-11585e69b619" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot (LOCAL).dir/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot (LOCAL).dir/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot (LOCAL).dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot (LOCAL).dir/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot.dir/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot.dir/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlameBot.dir/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commands/Misc/help.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commands/Misc/ping.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/Misc/ping.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commands/Moderation/warn.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/Moderation/warn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/Kuaka/invest.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/Kuaka/invest.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +90,8 @@
       <workItem from="1616686009297" duration="7165000" />
       <workItem from="1616702033743" duration="7896000" />
       <workItem from="1616759023645" duration="752000" />
-      <workItem from="1616764441053" duration="812000" />
+      <workItem from="1616764441053" duration="1410000" />
+      <workItem from="1616797687074" duration="267000" />
     </task>
     <servers />
   </component>
@@ -118,5 +108,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
