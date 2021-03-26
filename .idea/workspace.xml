@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="449b01cd-25b8-4980-ac97-11585e69b619" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commands/Kuaka/value.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/Kuaka/value.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +91,7 @@
       <workItem from="1616702033743" duration="7896000" />
       <workItem from="1616759023645" duration="752000" />
       <workItem from="1616764441053" duration="1410000" />
-      <workItem from="1616797687074" duration="903000" />
+      <workItem from="1616797687074" duration="1010000" />
     </task>
     <servers />
   </component>
