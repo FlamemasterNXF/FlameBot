@@ -1,4 +1,5 @@
 const Discord = require('discord.js');
+const kuakaEmote = "<:kuakacoin:763799806337613834>"
 module.exports = {
     name: `value`,
     execute(message, args) {
@@ -11,10 +12,10 @@ module.exports = {
         kuakaValue = randomNumber(kuakaMinimum, kuakaCap);
         let kuakaEmbed = new Discord.MessageEmbed()
             .setColor('#bd11ff')
-            .setTitle('Kuaka Value')
-            .setDescription(`Kuakacoin is currently valued at ${Notate(kuakaValue)} USD!\n\nKuakacoin has been invested in ${player.membersInvested} times. This isn't enough, invest more!\nThe Investments into Kuakacoin ensure the value never drops beneath ${Notate(kuakaMinimum)}!\nDue to Investments Kuakacoin can reach a max value of ${Notate(kuakaCap)} USD!`)
+            .setTitle(`Kuakacoin (${kuakaEmote})`)
+            .setDescription(`${kuakaEmote} is currently valued at ${Notate(kuakaValue)} USD!\n\n${kuakaEmote} has been invested in ${player.membersInvested} times. This isn't enough, invest more!\nThe Investments into ${kuakaEmote} ensure the value never drops beneath ${Notate(kuakaMinimum)}!\nDue to Investments ${kuakaEmote} can reach a max value of ${Notate(kuakaCap)} USD!`)
             .setTimestamp()
-            .setFooter('Make sure to invest in Kuakacoin!', 'https://cdn.discordapp.com/emojis/763799806337613834.png?v=1');
+            .setFooter(`Make sure to invest in ${kuakaEmote}!', 'https://cdn.discordapp.com/emojis/763799806337613834.png?v=1`);
         message.channel.send(kuakaEmbed)
         function randomNumber(min, max) {
             return Math.random() * (max - min) + min;

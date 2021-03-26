@@ -2,8 +2,7 @@ const Discord = require("discord.js");
 let membersInvested = player.membersInvested
 const kuakaEmote = "<:kuakacoin:763799806337613834>"
 global.player = {
-    membersInvested,
-    kuakaEmote
+    membersInvested
 }
 module.exports = {
     name: 'invest',
