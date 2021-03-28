@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="449b01cd-25b8-4980-ac97-11585e69b619" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/commands/Kuaka/buyUpgrade.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/Kuaka/buyUpgrade.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/Kuaka/invest.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/Kuaka/invest.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.19.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.19.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../a project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -92,6 +93,8 @@
       <workItem from="1616764441053" duration="1410000" />
       <workItem from="1616797687074" duration="1647000" />
       <workItem from="1616885810917" duration="2773000" />
+      <workItem from="1616966140755" duration="1619000" />
+      <workItem from="1616969803417" duration="614000" />
     </task>
     <servers />
   </component>
