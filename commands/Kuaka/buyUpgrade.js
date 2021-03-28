@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 module.exports = {
-    name: 'buyUpgrade',
+    name: 'buyupgrade',
     execute(message, args) {
         if (!args.length) {
             return message.channel.send(`Please Provide a Upgrade to buy!`);
