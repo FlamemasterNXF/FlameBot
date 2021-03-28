@@ -9,7 +9,7 @@ module.exports = {
         upgradeNames[0] = "Kuakacoin Maximum"
         upgradeNames[1] = "Kuakacoin Minimum"
 
-        if(!args.includes(upgradeNames[0]|upgradeNames[1])){
+        if(!args.includes(upgradeNames[0]||upgradeNames[1])){
             return message.channel.send(`That is not a valid Upgrade!`)
         }
         else
