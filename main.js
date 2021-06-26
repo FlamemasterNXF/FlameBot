@@ -46,7 +46,7 @@ const statuses = [
     "yomama.co.uk",
     "zoom",
     "siht etalsnart ot rehtob uoy did yhw",
-    "picture"
+    "gwa"
 ]
 //setting status, credit to void
 let randomStatus = statuses[Math.floor(Math.random() * statuses.length)]

@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="449b01cd-25b8-4980-ac97-11585e69b619" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/break_eternity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands/Counting/predict.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commands/Kuaka/invest.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/Kuaka/invest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/Kuaka/buyUpgrade.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/Kuaka/invest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/Kuaka/upgradesMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/Kuaka/value.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/Misc/changelog.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/Misc/changelog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +39,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
   <component name="ProjectId" id="1pZq7yaU3wFMogaypenR4gTZ5pm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,10 +64,11 @@
       <recent name="C:\Users\flame\Documents\FlameBot\commands" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\flame\Documents\GitHub\FlameBot" />
+      <recent name="C:\Users\flame\Documents\GitHub\FlameBot\commands" />
       <recent name="C:\Users\flame\Documents\FlameBot\commands\Kuaka" />
       <recent name="C:\Users\flame\Documents\FlameBot\commands" />
       <recent name="C:\Users\flame\Documents\FlameBot\commands\Moderation" />
-      <recent name="C:\Users\flame\Documents\FlameBot\commands\Misc" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -94,7 +108,15 @@
       <workItem from="1616797687074" duration="1647000" />
       <workItem from="1616885810917" duration="2773000" />
       <workItem from="1616966140755" duration="1619000" />
-      <workItem from="1616969803417" duration="614000" />
+      <workItem from="1616969803417" duration="1852000" />
+      <workItem from="1617024283533" duration="596000" />
+      <workItem from="1617104585229" duration="3000" />
+      <workItem from="1617323797128" duration="4000" />
+      <workItem from="1617380200710" duration="3000" />
+      <workItem from="1617651018357" duration="167000" />
+      <workItem from="1624672399249" duration="288000" />
+      <workItem from="1624672703043" duration="21000" />
+      <workItem from="1624672726432" duration="3329000" />
     </task>
     <servers />
   </component>
