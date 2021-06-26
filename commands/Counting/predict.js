@@ -3,6 +3,8 @@
 // (1.25^upgrades bought)×1e38×1e10×(30^10)×((upgrades bought/2)^20)×(1e100^compacts))^(2^squarers)^1.1
 const Discord = require("discord.js");
 const Decimal = require('break_eternity.js')
+let count = new Decimal(18889465931478580854784).times(3).times(1e42).times(5).times(Decimal.pow(1.25, 48)).times(1e38).times(1e10).times(30).pow(10).times(Decimal.pow(24, 20)).times(Decimal.pow(1e100, 1)).pow(2).pow(3).pow(1.1)
+let nextNum = count
 module.exports = {
     name: 'predict',
     execute(message, args) {
@@ -42,7 +44,7 @@ module.exports = {
 
             return x
         }
-        function format(decimal, precision = 2, small) {
+        function format(decimal, precision = 3) {
             decimal = new Decimal(decimal)
             if (isNaN(decimal.sign) || isNaN(decimal.layer) || isNaN(decimal.mag)) {
                 player.hasNaN = true;
@@ -55,8 +57,6 @@ module.exports = {
                 if (slog.gte(1e6)) return "F" + format(slog.floor())
                 else return Decimal.pow(10, slog.sub(slog.floor())).toStringWithDecimalPlaces(3) + "F" + commaFormat(slog.floor(), 0)
             }
-            else if (decimal.gte("1e100000")) return exponentialFormat(decimal, 0, false)
-            else if (decimal.gte("1e1000")) return exponentialFormat(decimal, 0)
             else if (decimal.gte(1e9)) return exponentialFormat(decimal, precision)
             else if (decimal.gte(1e3)) return commaFormat(decimal, 0)
             else if (decimal.gte(0.0001) || !small) return regularFormat(decimal, precision)
@@ -72,8 +72,7 @@ module.exports = {
                 return format(decimal, precision) + "⁻¹"
 
         }
-        let nextNum = new Decimal(18889465931478580854784).times(3).times(1e42).times(5).times(Decimal.pow(1.25, 48)).times(1e38).times(1e10).times(30).pow(10).times(Decimal.pow(24, 20)).times(Decimal.pow(1e100, 1)).pow(2).pow(3).pow(1.1)
-        message.channel.send(`The next number is ${format(nextNum)}`)
-        nextNum = nextNum.times(2)
+        message.channel.send(`The next number is ${format(nextNum)}\n\nYou are currently counting by ${format(count)}`)
+        nextNum = nextNum.plus(count)
     },
 };
