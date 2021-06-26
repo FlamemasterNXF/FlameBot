@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/FlamemasterNXF/FlameBot#readme",
   "dependencies": {
+    "break_eternity.js": "^1.0.2",
     "discord.js": "^12.5.3",
     "jquery": "^3.6.0"
   }
